@@ -7,5 +7,6 @@
 [1.redux 从入门到放弃之Reducer](https://github.com/SmartUED/week-share/issues/2)
 
 ### Javascript
+[1.设计模式之观察者(发布订阅)](https://github.com/SmartUED/week-share/issues/3)
 
 ### Vue 源码分析
